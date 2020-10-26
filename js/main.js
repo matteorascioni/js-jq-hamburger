@@ -2,10 +2,10 @@
 var hambMenu = $('.fa-bars');
 
 hambMenu.click( function () {
-    $('.hamburger-menu').fadeIn(300);
+    $('.hamburger-menu').fadeIn(330);
 });
 
-
+ 
 // CHUSURA MENU
 var closeMenu = $('.fa-times');
 
